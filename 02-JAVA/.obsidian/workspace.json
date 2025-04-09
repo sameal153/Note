@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "7904def4318d8c11",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffc0a50e57d89c73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b06cdd8ec54ab0b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/02-DataBase/03-JDBC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1309b0f4e1daaa09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/02-DataBase/03-JDBC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1354131bb2bdf29",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f4a888f887800fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b38110e7b36067b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64dc948fdf8c3603",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f20f72cf50801fd1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a01445f979333e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5829c7b63a54c273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d7eb01869790f51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JAVA/02-DataBase/03-JDBC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93f059c79641c946",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JAVA/02-DataBase/03-JDBC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "deea8f1e59bb9089",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43a2738f246ecbd2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JAVA/02-DataBase/03-JDBC.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1309b0f4e1daaa09",
+  "lastOpenFiles": [
+    "JAVA/00-环境配置/003-JDK环境变量设置.md",
+    "JAVA/00-环境配置/004-IDEA使用.md",
+    "JAVA/00-环境配置/002-环境部署.md",
+    "JAVA/00-环境配置/2.JDK环境变量设置.md",
+    "JAVA/00-环境配置/1.office部署和激活.md",
+    "JAVA/00-环境配置/001-项目组成员工作分配.md",
+    "JAVA/00-环境配置/开发手册/Java开发手册（黄山版）.pdf",
+    "JAVA/00-环境配置/开发手册/【了解】尚硅谷_Java关键字汇总说明.pdf",
+    "JAVA/00开发手册/【了解】尚硅谷_Java关键字汇总说明.pdf",
+    "JAVA/01-JAVAEE/第02章_变量与运算符.md",
+    "JAVA/02-DataBase/00-SQL必知必会.md",
+    "大数据/大数据行业概况.md",
+    "大数据/大数据相关开源技术.md",
+    "大数据/大数据解决方案.md",
+    "笔记快捷指令/快捷键.md",
+    "大数据/附件/Pasted image 20240313174611.png",
+    "大数据/附件/微信图片_20240227102938.png",
+    "大数据/附件/1e08af56771df186238cd46d94181c1.png",
+    "大数据/附件/1709001590205.png",
+    "附件/1.bmp",
+    "JAVA/02-DataBase/03-JDBC.md",
+    "1.bmp",
+    "附件",
+    "JAVA/01-JAVAEE/第17章_反射机制.md",
+    "JAVA/01-JAVAEE/需要复习的内容.md",
+    "JAVA/01-JAVAEE/第16章_网络编程.md",
+    "JAVA/01-JAVAEE/第13章_集合框架.md",
+    "JAVA/01-JAVAEE/第06章_数组.md",
+    "JAVA/01-JAVAEE/第04章_IDEA的安装与使用（上）.md"
+  ]
+}
