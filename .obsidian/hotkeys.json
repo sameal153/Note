@@ -1,0 +1,10 @@
+{
+  "workspaces-plus:open-workspaces-plus": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
+}
