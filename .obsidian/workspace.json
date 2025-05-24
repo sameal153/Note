@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "b9e5c08631c4c101",
+            "id": "043cc8c4bd91f3f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-基础配置/1.md",
+                "file": "02-JAVA/03-JavaWeb/Undertow容器.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-基础配置/1.md",
+                "file": "02-JAVA/03-JavaWeb/Undertow容器.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-基础配置/1.md",
+                "file": "02-JAVA/03-JavaWeb/Undertow容器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-基础配置/1.md"
+                "file": "02-JAVA/03-JavaWeb/Undertow容器.md"
               }
             }
           }
@@ -173,53 +173,53 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b9e5c08631c4c101",
+  "active": "b38110e7b36067b1",
   "lastOpenFiles": [
-    "00-基础配置/Git.md",
+    "02-JAVA/03-JavaWeb/Tomcat.md",
+    "02-JAVA/04-设计模式/02-重学Java设计模式.md",
+    "02-JAVA/04-设计模式/01-图解Java设计模式.md",
+    "02-JAVA/05-框架/06-Springboot（下）.md",
+    "02-JAVA/05-框架/04-mybatis-plus.md",
+    "02-JAVA/05-框架/02-Spring1-工厂.md",
+    "02-JAVA/02-DataBase/数据库设计.md",
+    "02-JAVA/02-DataBase/01-Oracle.md",
+    "02-JAVA/02-DataBase/03-JDBC.md",
+    "02-JAVA/02-DataBase/00-SQL必知必会.md",
+    "02-JAVA/02-DataBase/02-MySQL/MySQL基础.md",
+    "02-JAVA/06-开源工具包/Hutool.md",
+    "02-JAVA/05-项目构建工具/00-Maven依赖管理项目构建工具.md",
+    "00-基础配置/Git fork使用.md",
+    "01-Java开发手册/Java从入门到精通(JDK17版).pdf",
+    "01-Java开发手册/Java开发手册（黄山版）.pdf",
     "00-基础配置/1.md",
+    "引用数据类型 1.md",
+    "引用数据类型.md",
+    "软考/软考笔记—作者：顾梦/软考-软件设计师-笔记.md",
+    "软考/软考笔记—作者：顾梦/assets/image-20230505112239482.png",
+    "软考/软考笔记—作者：顾梦/assets/image-20230505104634099.png",
+    "软考/软考笔记—作者：顾梦/assets/image-20230505093747859.png",
+    "软考/软考笔记—作者：顾梦/assets/image-20230504184216521.png",
+    "软考/软考笔记—作者：顾梦/assets/image-20230417151608470.png",
+    "软考/软考笔记—作者：顾梦/assets/image-20230417135729720.png",
+    "软考/软考笔记—作者：顾梦/assets/image-20230417112937358.png",
+    "软考/软考笔记—作者：顾梦/assets/image-20230417110447963.png",
+    "软考/软考笔记—作者：顾梦/assets/image-20230417082353859.png",
+    "软考/软考笔记—作者：顾梦/assets/image-20230416165012628.png",
+    "软考/软考笔记—作者：顾梦/assets/image-20230415171040969-1690253559764-92.png#id=lAkvr&originHeight=495&originWidth=888&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=",
+    "软考/软考笔记—作者：顾梦/assets/image-20230415171040969-1690253552303-91.png#id=lAkvr&originHeight=495&originWidth=888&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=",
+    "软考/软考笔记—作者：顾梦/assets",
+    "软考/软考笔记—作者：顾梦",
+    "软考/软件设计师笔记—作者：rDawn.pdf",
+    "软考/zst讲义—作者：理想/软件设计师讲义.md",
+    "软考/zst讲义—作者：理想/assets",
+    "软考/zst讲义—作者：理想",
+    "软考",
+    "00-基础配置/Git.md",
     "00-基础配置/003-JDK环境变量设置.md",
     "00-基础配置/000-OBS语法.md",
     "02-JAVA/01-JAVAEE/第02章_变量与运算符.md",
     "02-JAVA/01-JAVAEE/第07章_面向对象编程（基础）.md",
     "02-JAVA/01-JAVAEE/第16章_网络编程.md",
-    "02-JAVA/01-JAVAEE/第06章_数组.md",
-    "院所代号.md",
-    "引用数据类型 1.md",
-    "引用数据类型.md",
-    "02-JAVA/01-JAVAEE/第10章_异常处理.md",
-    "项目管理/002代码管理规范.md",
-    "项目管理/001-项目组成员工作分配.md",
-    "02-JAVA/04-设计模式/02-重学Java设计模式.md",
-    "02-JAVA/05-项目构建工具/00-Maven依赖管理项目构建工具.md",
-    "02-JAVA/02-DataBase/03-JDBC.md",
-    "02-JAVA/04-设计模式/01-图解Java设计模式.md",
-    "02-JAVA/01-JAVAEE/第08章_面向对象编程（进阶）.md",
-    "02-JAVA/01-JAVAEE/第05章_IDEA的安装与使用（下）.md",
-    "00-基础配置/002-环境部署.md",
-    "01-Java开发手册/Java开发手册（黄山版）.pdf",
-    "01-Java开发手册/Java从入门到精通(JDK17版).pdf",
-    "01-Java开发手册/【了解】尚硅谷_Java关键字汇总说明.pdf",
-    "02-JAVA/01-JAVAEE/第04章_IDEA的安装与使用（上）.md",
-    "02-JAVA/01-JAVAEE/第03章_流程控制语句.md",
-    "项目管理/禅道软件使用.md",
-    "项目管理/项目风险管理.md",
-    "00-基础配置/1.md",
-    "附件/75c650cfa23647c968de23a87aefc05.jpg",
-    "附件",
-    "75c650cfa23647c968de23a87aefc05.jpg",
-    "软件设计/XX-软件架构/DDD架构.assets/640.jpeg",
-    "软件设计/75c650cfa23647c968de23a87aefc05.jpg",
-    "业务相关",
-    "Pasted image 20240905204217.png",
-    "Pasted image 20240820173049.png",
-    "运维",
-    "测试/GJB/测试流程.assets/2794ccdbbc0da62b7f8fb11634957582.png",
-    "测试/GJB/测试流程.assets/2794ccdbbc0da62b7f8fb11634957582-1724146737025-9.png",
-    "测试/GJB/测试流程.assets/72a0b44c5f7a7276eeeb55ccf15da907.png",
-    "测试/GJB/测试流程.assets/72a0b44c5f7a7276eeeb55ccf15da907-1724146724933-7.png",
-    "测试/GJB/测试流程.assets",
-    "测试/软件测试阶段简介",
-    "测试/测试基础知识",
-    "项目管理"
+    "02-JAVA/01-JAVAEE/第06章_数组.md"
   ]
 }
