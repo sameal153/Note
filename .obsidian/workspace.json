@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "01-图解Java设计模式"
             }
+          },
+          {
+            "id": "8f7230256794e045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "量子加密.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "量子加密"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-JAVA/04-设计模式/01-图解Java设计模式.md",
+                "file": "量子加密.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01-图解Java设计模式 的大纲"
+              "title": "量子加密 的大纲"
             }
           }
         ],
@@ -199,10 +213,14 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "043cc8c4bd91f3f2",
+  "active": "43a2738f246ecbd2",
   "lastOpenFiles": [
-    "02-JAVA/04-设计模式/02-重学Java设计模式.md",
+    "量子加密.assets/image-20250530145043977.png",
+    "量子加密.assets",
+    "attachments/Pasted image 20250530145028.png",
     "02-JAVA/04-设计模式/01-图解Java设计模式.md",
+    "量子加密.md",
+    "02-JAVA/04-设计模式/02-重学Java设计模式.md",
     "00-基础配置/003-JDK环境变量设置.md",
     "00-基础配置/Git fork使用.md",
     "02-JAVA/03-JavaWeb/Undertow容器.md",
@@ -233,7 +251,6 @@
     "软考/软考笔记—作者：顾梦/assets/image-20230417112937358.png",
     "软考/软考笔记—作者：顾梦/assets/image-20230417110447963.png",
     "软考/软考笔记—作者：顾梦/assets/image-20230417082353859.png",
-    "软考/软考笔记—作者：顾梦/assets/image-20230416165012628.png",
     "软考/软考笔记—作者：顾梦/assets/image-20230415171040969-1690253559764-92.png#id=lAkvr&originHeight=495&originWidth=888&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=",
     "软考/软考笔记—作者：顾梦/assets/image-20230415171040969-1690253552303-91.png#id=lAkvr&originHeight=495&originWidth=888&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=",
     "软考/软考笔记—作者：顾梦/assets",
@@ -242,10 +259,7 @@
     "软考/zst讲义—作者：理想/软件设计师讲义.md",
     "软考/zst讲义—作者：理想/assets",
     "软考/zst讲义—作者：理想",
-    "软考",
     "00-基础配置/Git.md",
-    "00-基础配置/000-OBS语法.md",
-    "02-JAVA/01-JAVAEE/第02章_变量与运算符.md",
-    "02-JAVA/01-JAVAEE/第16章_网络编程.md"
+    "00-基础配置/000-OBS语法.md"
   ]
 }
