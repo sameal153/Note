@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "11394d3d1404ca82",
+        "id": "ffe631246b97d1eb",
         "type": "tabs",
         "children": [
           {
-            "id": "db112036293e3e08",
+            "id": "8e44ff1515da4f4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-JAVA/01-JAVAEE/第07章_面向对象编程（基础）.md",
+                "file": "02-JAVA/01-JAVAEE/第10章_异常处理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第07章_面向对象编程（基础）"
-            }
-          },
-          {
-            "id": "31eb41ca67733808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-基础配置/Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "043cc8c4bd91f3f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-JAVA/04-设计模式/01-图解Java设计模式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-图解Java设计模式"
-            }
-          },
-          {
-            "id": "8f7230256794e045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "量子加密.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "量子加密"
+              "title": "第10章_异常处理"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量子加密.md",
+                "file": "02-JAVA/01-JAVAEE/第10章_异常处理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "量子加密 的大纲"
+              "title": "第10章_异常处理 的大纲"
             }
           }
         ],
@@ -213,35 +170,41 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "43a2738f246ecbd2",
+  "active": "b38110e7b36067b1",
   "lastOpenFiles": [
+    "02-JAVA/01-JAVAEE/第10章_异常处理.assets/image-20250610090834832.png",
+    "02-JAVA/01-JAVAEE/第10章_异常处理.assets",
+    "02-JAVA/01-JAVAEE/第12章_常用类和基础API.md",
+    "02-JAVA/01-JAVAEE/第10章_异常处理.md",
+    "02-JAVA/01-JAVAEE/第09章_面向对象编程（高级）.md",
+    "02-JAVA/01-JAVAEE/第11章_多线程.md",
+    "02-JAVA/01-JAVAEE/第05章_IDEA的安装与使用（下）.md",
+    "02-JAVA/01-JAVAEE/第14章_泛型(Generic).md",
+    "02-JAVA/01-JAVAEE/第15章_File类与IO流.md",
+    "02-JAVA/01-JAVAEE/第03章_流程控制语句.md",
+    "02-JAVA/01-JAVAEE/第01章_Java语言概述.md",
+    "02-JAVA/01-JAVAEE/第02章_变量与运算符.md",
+    "02-JAVA/05-项目构建工具/00-Maven依赖管理项目构建工具.md",
+    "02-JAVA/01-JAVAEE/第08章_面向对象编程（进阶）.md",
+    "02-JAVA/01-JAVAEE/第06章_数组.md",
+    "00-基础配置/000-OBS语法.md",
+    "00-基础配置/Git.md",
+    "00-基础配置/003-JDK环境变量设置.md",
+    "未命名.canvas",
+    "02-JAVA/01-JAVAEE/第07章_面向对象编程（基础）.md",
+    "02-JAVA/04-设计模式/01-图解Java设计模式.md",
+    "02-JAVA/01-JAVAEE/第16章_网络编程.md",
+    "量子加密.md",
     "量子加密.assets/image-20250530145043977.png",
     "量子加密.assets",
     "attachments/Pasted image 20250530145028.png",
-    "02-JAVA/04-设计模式/01-图解Java设计模式.md",
-    "量子加密.md",
     "02-JAVA/04-设计模式/02-重学Java设计模式.md",
-    "00-基础配置/003-JDK环境变量设置.md",
     "00-基础配置/Git fork使用.md",
     "02-JAVA/03-JavaWeb/Undertow容器.md",
-    "02-JAVA/01-JAVAEE/第07章_面向对象编程（基础）.md",
     "02-JAVA/03-JavaWeb/Tomcat.md",
     "02-JAVA/05-框架/06-Springboot（下）.md",
-    "02-JAVA/05-框架/04-mybatis-plus.md",
-    "02-JAVA/05-框架/02-Spring1-工厂.md",
-    "02-JAVA/02-DataBase/数据库设计.md",
-    "02-JAVA/02-DataBase/01-Oracle.md",
-    "02-JAVA/02-DataBase/03-JDBC.md",
-    "02-JAVA/02-DataBase/00-SQL必知必会.md",
-    "02-JAVA/02-DataBase/02-MySQL/MySQL基础.md",
-    "02-JAVA/06-开源工具包/Hutool.md",
-    "02-JAVA/05-项目构建工具/00-Maven依赖管理项目构建工具.md",
     "01-Java开发手册/Java从入门到精通(JDK17版).pdf",
     "01-Java开发手册/Java开发手册（黄山版）.pdf",
-    "00-基础配置/1.md",
-    "引用数据类型 1.md",
-    "引用数据类型.md",
-    "软考/软考笔记—作者：顾梦/软考-软件设计师-笔记.md",
     "软考/软考笔记—作者：顾梦/assets/image-20230505112239482.png",
     "软考/软考笔记—作者：顾梦/assets/image-20230505104634099.png",
     "软考/软考笔记—作者：顾梦/assets/image-20230505093747859.png",
@@ -250,16 +213,11 @@
     "软考/软考笔记—作者：顾梦/assets/image-20230417135729720.png",
     "软考/软考笔记—作者：顾梦/assets/image-20230417112937358.png",
     "软考/软考笔记—作者：顾梦/assets/image-20230417110447963.png",
-    "软考/软考笔记—作者：顾梦/assets/image-20230417082353859.png",
     "软考/软考笔记—作者：顾梦/assets/image-20230415171040969-1690253559764-92.png#id=lAkvr&originHeight=495&originWidth=888&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=",
     "软考/软考笔记—作者：顾梦/assets/image-20230415171040969-1690253552303-91.png#id=lAkvr&originHeight=495&originWidth=888&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=",
     "软考/软考笔记—作者：顾梦/assets",
     "软考/软考笔记—作者：顾梦",
     "软考/软件设计师笔记—作者：rDawn.pdf",
-    "软考/zst讲义—作者：理想/软件设计师讲义.md",
-    "软考/zst讲义—作者：理想/assets",
-    "软考/zst讲义—作者：理想",
-    "00-基础配置/Git.md",
-    "00-基础配置/000-OBS语法.md"
+    "软考/zst讲义—作者：理想/assets"
   ]
 }

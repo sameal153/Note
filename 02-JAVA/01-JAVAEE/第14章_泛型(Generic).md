@@ -6,11 +6,7 @@
 
 ![image-20220411000757577](https://raw.githubusercontent.com/sameal153/PicturePool/master/img/202311111736751.png)
 
-- 举例2：超市购物架上很多瓶子，每个瓶子装的是什么，有标签
-
-<img src="https://raw.githubusercontent.com/sameal153/PicturePool/master/img/202311111736752.png" alt="image-20220918230534965" style="zoom:67%;" />
-
-- 举例3：家庭厨房中：
+- 举例2：家庭厨房中：
 
 <img src="https://raw.githubusercontent.com/sameal153/PicturePool/master/img/202311111736753.png" alt="image-20220514191533296" style="zoom:67%;" />
 
